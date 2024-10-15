@@ -59,5 +59,5 @@ initialize({
     },
   },
   messages,
-  requireAuthenticatedUser: true,
+  requireAuthenticatedUser: false,
 });
